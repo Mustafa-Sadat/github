@@ -1,0 +1,28 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+.table-custom{
+	margin:auto;
+	min-width: 700px !important;
+	text-align: start;
+}
+
+.table-custom td,th{
+	max-width:100px !important;
+	min-width:50px !important;
+	border-color:#111 !important;
+	font-size:12px !important;
+}
+
+#table-custom__id{
+	min-width:15px !important;
+	max-width:20px !important;
+	text-align: center;
+}
+
+
+.th-big{
+	width:50% ;
+}
